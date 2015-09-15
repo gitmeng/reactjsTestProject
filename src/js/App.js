@@ -1,1 +1,1 @@
-React.render(<Parent />, document.getElementById('booking-start-app'));
+React.render(<Container />, document.getElementById('booking-start-app'));

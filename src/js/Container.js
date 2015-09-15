@@ -1,4 +1,4 @@
-var Parent = React.createClass({
+var Container = React.createClass({
   render: function(){
     return (
       <div>

@@ -1,8 +1,8 @@
-var Container = React.createClass({
+var Bread = React.createClass({
   render: function(){
     return (
       <div>
-        <Bread />
+        This is bread
       </div>
     )
   }
